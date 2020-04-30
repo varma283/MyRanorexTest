@@ -70,7 +70,6 @@ namespace MyRanorexTest
                     button.Click();
                     Report.Info(button.Text);
                     new Regex(Regex.Escape("Open flashing door."));
-                    //if (button.Text=="2")
                     Report.Success("Test OK");
                     Thread.Sleep(2000);
                     //Close calculator
