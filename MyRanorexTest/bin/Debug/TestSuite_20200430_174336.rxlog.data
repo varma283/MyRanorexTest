@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="82576bf24266976"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="varma"
+		rxversion="9.1.0.0"
+		host="VARMA"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1920x1080"
+		timestamp="30-04-20 5:43:36 PM"
+		timestampiso="2020-04-30T12:13:36"
+		endtime="30-04-20 5:44:01 PM"
+		timeoutfactor="1">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.000"
+			timeRelativeToTestModuleStartTime="00:07.555"
+			timeWallClock="17:43:44"
+			time="00:00.000"
+			level="Warn"
+			category="Automation">
+			<message>
+				The apartment state of the current thread is not set to STA. Please make sure that all threads accessing Ranorex methods have their apartment state set to STA.
+			</message>
+			<metainfo
+				codefile="C:\Users\varma\onedrive\documents\visual studio 2017\Projects\MyRanorexTest\MyRanorexTest\Program.cs"
+				codeline="45"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.000"
+			timeRelativeToTestModuleStartTime="00:12.632"
+			timeWallClock="17:43:49"
+			time="00:00.000"
+			level="Info"
+			category="User">
+			<message>
+				Two
+			</message>
+			<metainfo
+				codefile="C:\Users\varma\onedrive\documents\visual studio 2017\Projects\MyRanorexTest\MyRanorexTest\Program.cs"
+				codeline="49"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.000"
+			timeRelativeToTestModuleStartTime="00:19.001"
+			timeWallClock="17:43:55"
+			time="00:00.000"
+			level="Info"
+			category="User">
+			<message>
+				Plus
+			</message>
+			<metainfo
+				codefile="C:\Users\varma\onedrive\documents\visual studio 2017\Projects\MyRanorexTest\MyRanorexTest\Program.cs"
+				codeline="53"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.000"
+			timeRelativeToTestModuleStartTime="00:20.039"
+			timeWallClock="17:43:56"
+			time="00:00.000"
+			level="Info"
+			category="User">
+			<message>
+				Three
+			</message>
+			<metainfo
+				codefile="C:\Users\varma\onedrive\documents\visual studio 2017\Projects\MyRanorexTest\MyRanorexTest\Program.cs"
+				codeline="57"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.000"
+			timeRelativeToTestModuleStartTime="00:20.851"
+			timeWallClock="17:43:57"
+			time="00:00.000"
+			level="Info"
+			category="User">
+			<message>
+				Minus
+			</message>
+			<metainfo
+				codefile="C:\Users\varma\onedrive\documents\visual studio 2017\Projects\MyRanorexTest\MyRanorexTest\Program.cs"
+				codeline="61"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.000"
+			timeRelativeToTestModuleStartTime="00:21.893"
+			timeWallClock="17:43:58"
+			time="00:00.000"
+			level="Info"
+			category="User">
+			<message>
+				Three
+			</message>
+			<metainfo
+				codefile="C:\Users\varma\onedrive\documents\visual studio 2017\Projects\MyRanorexTest\MyRanorexTest\Program.cs"
+				codeline="65"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.000"
+			timeRelativeToTestModuleStartTime="00:22.675"
+			timeWallClock="17:43:59"
+			time="00:00.000"
+			level="Info"
+			category="User">
+			<message>
+				Equals
+			</message>
+			<metainfo
+				codefile="C:\Users\varma\onedrive\documents\visual studio 2017\Projects\MyRanorexTest\MyRanorexTest\Program.cs"
+				codeline="69"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

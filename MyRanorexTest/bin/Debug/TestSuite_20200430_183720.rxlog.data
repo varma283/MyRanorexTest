@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="25f2c0cb1c2d0ed"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="varma"
+		rxversion="9.1.0.0"
+		host="VARMA"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1920x1080"
+		timestamp="30-04-20 6:37:20 PM"
+		timestampiso="2020-04-30T13:07:20"
+		endtime="30-04-20 6:37:39 PM"
+		timeoutfactor="1">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.000"
+			timeRelativeToTestModuleStartTime="00:05.486"
+			timeWallClock="18:37:25"
+			time="00:00.000"
+			level="Warn"
+			category="Automation">
+			<message>
+				The apartment state of the current thread is not set to STA. Please make sure that all threads accessing Ranorex methods have their apartment state set to STA.
+			</message>
+			<metainfo
+				codefile="C:\Users\varma\onedrive\documents\visual studio 2017\Projects\MyRanorexTest\MyRanorexTest\Program.cs"
+				codeline="46"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.000"
+			timeRelativeToTestModuleStartTime="00:09.037"
+			timeWallClock="18:37:29"
+			time="00:00.000"
+			level="Info"
+			category="User">
+			<message>
+				Two
+			</message>
+			<metainfo
+				codefile="C:\Users\varma\onedrive\documents\visual studio 2017\Projects\MyRanorexTest\MyRanorexTest\Program.cs"
+				codeline="50"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.000"
+			timeRelativeToTestModuleStartTime="00:09.841"
+			timeWallClock="18:37:30"
+			time="00:00.000"
+			level="Info"
+			category="User">
+			<message>
+				Plus
+			</message>
+			<metainfo
+				codefile="C:\Users\varma\onedrive\documents\visual studio 2017\Projects\MyRanorexTest\MyRanorexTest\Program.cs"
+				codeline="55"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.000"
+			timeRelativeToTestModuleStartTime="00:10.881"
+			timeWallClock="18:37:31"
+			time="00:00.000"
+			level="Info"
+			category="User">
+			<message>
+				Three
+			</message>
+			<metainfo
+				codefile="C:\Users\varma\onedrive\documents\visual studio 2017\Projects\MyRanorexTest\MyRanorexTest\Program.cs"
+				codeline="59"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.000"
+			timeRelativeToTestModuleStartTime="00:11.680"
+			timeWallClock="18:37:32"
+			time="00:00.000"
+			level="Info"
+			category="User">
+			<message>
+				Minus
+			</message>
+			<metainfo
+				codefile="C:\Users\varma\onedrive\documents\visual studio 2017\Projects\MyRanorexTest\MyRanorexTest\Program.cs"
+				codeline="63"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.000"
+			timeRelativeToTestModuleStartTime="00:12.713"
+			timeWallClock="18:37:33"
+			time="00:00.000"
+			level="Info"
+			category="User">
+			<message>
+				Three
+			</message>
+			<metainfo
+				codefile="C:\Users\varma\onedrive\documents\visual studio 2017\Projects\MyRanorexTest\MyRanorexTest\Program.cs"
+				codeline="67"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.000"
+			timeRelativeToTestModuleStartTime="00:13.527"
+			timeWallClock="18:37:33"
+			time="00:00.000"
+			level="Info"
+			category="User">
+			<message>
+				Equals
+			</message>
+			<metainfo
+				codefile="C:\Users\varma\onedrive\documents\visual studio 2017\Projects\MyRanorexTest\MyRanorexTest\Program.cs"
+				codeline="71"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.000"
+			timeRelativeToTestModuleStartTime="00:16.776"
+			timeWallClock="18:37:37"
+			time="00:00.000"
+			level="Success"
+			category="User">
+			<message>
+				Test OK
+			</message>
+			<metainfo
+				codefile="C:\Users\varma\onedrive\documents\visual studio 2017\Projects\MyRanorexTest\MyRanorexTest\Program.cs"
+				codeline="74"
+				loglvl="Success">
+			</metainfo>
+		</item>
+	</activity>
+</report>

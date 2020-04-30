@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.CompilerServices;
 using System.Threading;
+using System.Text.RegularExpressions;
 
 namespace MyRanorexTest
 {
@@ -46,22 +47,31 @@ namespace MyRanorexTest
 
                     Button button = calculator.FindSingle<Ranorex.Button>(".//button[@automationid='num2Button']");
                     button.Click();
+                    Report.Info(button.Text);
 
                     button = calculator.FindSingle<Ranorex.Button>(".//button[@automationid='plusButton']");
                     button.Click();
+                    //Report.Info(button.Text);
+                    Report.Log(ReportLevel.Info, button.Text);
 
                     button = calculator.FindSingle<Ranorex.Button>(".//button[@automationid='num3Button']");
                     button.Click();
+                    Report.Info(button.Text);
 
                     button = calculator.FindSingle<Ranorex.Button>(".//button[@automationid='minusButton']");
                     button.Click();
+                    Report.Info(button.Text);
 
                     button = calculator.FindSingle<Ranorex.Button>(".//button[@automationid='num3Button']");
                     button.Click();
+                    Report.Info(button.Text);
 
                     button = calculator.FindSingle<Ranorex.Button>(".//button[@automationid='equalButton']");
                     button.Click();
-
+                    Report.Info(button.Text);
+                    new Regex(Regex.Escape("Open flashing door."));
+                    //if (button.Text=="2")
+                    Report.Success("Test OK");
                     Thread.Sleep(2000);
                     //Close calculator
                     calculator.As<Form>().Close();
